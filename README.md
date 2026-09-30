@@ -19,4 +19,4 @@ This solution utilizes an Adaptive Multi-Objective Evolutionary Algorithm (MOEA)
 ## Assumptions and Operational Constraints
 *   **Hardware Constraint**: Evolutionary deep learning is computationally expensive; it is assumed the deployment environment has sufficient parallel processing (GPU) capabilities for the mutation phases.
 *   **Data Constraint**: Assumes a continuous, uninterrupted stream of labeled or weakly-labeled environmental data to allow the evolutionary algorithm to evaluate fitness during drift periods.
-*   
+   
